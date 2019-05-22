@@ -1,2 +1,11 @@
-.csv
-.zip
+# Packages #
+############
+*.zip
+*.jar
+*.rar
+
+# Spreadsheets #
+################
+*.csv
+*.xsl
+*.xslx
